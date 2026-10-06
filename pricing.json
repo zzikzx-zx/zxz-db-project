@@ -1,0 +1,172 @@
+{
+  "qrImageUrl": "",
+  "qrFileName": "",
+  "paymentMethod": "QRIS / DANA / GoPay / OVO / Bank",
+  "paymentOwner": "ZxZ Project",
+  "developerTelegramId": 8081282605,
+  "notifyOnSubmit": true,
+  "roles": [
+    {
+      "role": "supreme_king",
+      "name": "SUPREME KING",
+      "price": 0,
+      "duration": "TIDAK DIJUAL",
+      "color": "#9C27B0",
+      "senderGlobalLimit": -1,
+      "hasBlueCheck": true,
+      "badgeStyle": "glow",
+      "badgeLabel": "Supreme King",
+      "benefits": [
+        "FULL ROOT ACCESS",
+        "Tidak dijual - khusus developer",
+        "Bisa hapus siapapun (termasuk High_Owner)",
+        "Bypass maintenance mode",
+        "Akses source code & API server",
+        "Upload APK / Edit pricing / Maintenance / Appearance",
+        "Receive semua notifikasi pembelian",
+        "Unlimited device login",
+        "Centang biru dengan animasi glow"
+      ],
+      "popular": false,
+      "soldOut": true
+    },
+    {
+      "role": "high_owner",
+      "name": "HIGH OWNER",
+      "price": 150000,
+      "duration": "Permanen",
+      "color": "#FF5722",
+      "senderGlobalLimit": -1,
+      "hasBlueCheck": true,
+      "badgeStyle": "blink",
+      "badgeLabel": "High Owner",
+      "benefits": [
+        "UNLIMITED Sender Global (Infinity)",
+        "Semua fitur Owner",
+        "Bisa buat akun Owner & Admin (max 10/bulan)",
+        "Bisa hapus siapapun kecuali Supreme King",
+        "Whitelist IP permanen (anti-banned)",
+        "Centang biru berkedip (animated)",
+        "Direct line ke Supreme King (private chat)",
+        "Akses VPS monitoring",
+        "Maximum device login: 10 device",
+        "Free lifetime updates"
+      ],
+      "popular": false
+    },
+    {
+      "role": "owner",
+      "name": "OWNER",
+      "price": 100000,
+      "duration": "Permanen",
+      "color": "#F44336",
+      "senderGlobalLimit": 12,
+      "hasBlueCheck": true,
+      "badgeStyle": "solid",
+      "badgeLabel": "Owner",
+      "benefits": [
+        "Sender Global 12x per hari",
+        "Semua fitur Partner",
+        "Bisa hapus user level rendah",
+        "Anti-banned guarantee permanen",
+        "Priority support 24/7 private chat",
+        "Centang biru solid + badge Owner",
+        "Bypass maintenance mode",
+        "Akses semua tools premium",
+        "Maximum device login: 5 device",
+        "Free lifetime updates"
+      ],
+      "popular": false
+    },
+    {
+      "role": "partner",
+      "name": "PARTNER",
+      "price": 55000,
+      "duration": "Permanen",
+      "color": "#4CAF50",
+      "senderGlobalLimit": 9,
+      "hasBlueCheck": false,
+      "benefits": [
+        "Sender Global 9x per hari",
+        "Semua fitur Admin",
+        "Buat Akun Reseller (max 50/bln)",
+        "Akses Tools Premium",
+        "Co-Owner Privilege",
+        "Revenue Share",
+        "Maximum device login: 3 device"
+      ],
+      "popular": false
+    },
+    {
+      "role": "admin",
+      "name": "ADMIN",
+      "price": 45000,
+      "duration": "Permanen",
+      "color": "#FF9800",
+      "senderGlobalLimit": 6,
+      "hasBlueCheck": false,
+      "benefits": [
+        "Sender Global 6x per hari",
+        "Semua fitur Reseller",
+        "Buat Akun VIP & Member (max 40/bln)",
+        "Manage User List",
+        "Delete User Bawahannya",
+        "Priority Support"
+      ],
+      "popular": false
+    },
+    {
+      "role": "vip",
+      "name": "VIP",
+      "price": 35000,
+      "duration": "Permanen",
+      "color": "#FFD700",
+      "senderGlobalLimit": 3,
+      "hasBlueCheck": false,
+      "benefits": [
+        "Sender Global 3x per hari (terendah yang dapet)",
+        "Semua fitur Reseller",
+        "Akses Bug Group",
+        "Priority Bug Update",
+        "2 Device Login",
+        "Badge POPULAR"
+      ],
+      "popular": true
+    },
+    {
+      "role": "reseller",
+      "name": "RESELLER",
+      "price": 25000,
+      "duration": "Permanen",
+      "color": "#9C27B0",
+      "senderGlobalLimit": 0,
+      "hasBlueCheck": false,
+      "benefits": [
+        "TIDAK ada Sender Global (Private only)",
+        "Semua fitur Member",
+        "Buat Akun Member (max 30/bln)",
+        "1 Device Login",
+        "Reseller Panel Akses",
+        "Komisi dari penjualan"
+      ],
+      "popular": false
+    },
+    {
+      "role": "member",
+      "name": "MEMBER",
+      "price": 15000,
+      "duration": "Permanen",
+      "color": "#00BCD4",
+      "senderGlobalLimit": 0,
+      "hasBlueCheck": false,
+      "benefits": [
+        "TIDAK ada Sender Global (Private only)",
+        "Akses WhatsApp Crash (Bug Nomor)",
+        "1 Device Login",
+        "Bug Update Real-time",
+        "Support via Channel"
+      ],
+      "popular": false
+    }
+  ]
+}
